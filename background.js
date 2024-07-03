@@ -1,4 +1,4 @@
-const apiKey = 'cur_live_bxkK0DNYuokIRcHqSJrp2HIBdBXx5ttfmQ2svzYX';
+const apiKey = 'your_api_key_here';
 
 // Function to fetch exchange rates
 async function fetchExchangeRates() {
