@@ -3,6 +3,9 @@
 
 The **Currency Converter Extension** is a browser extension designed to help users convert currencies globally with real-time exchange rates. It fetches the latest rates every hour, provides instant updates, and includes features for currency reversal and display of the last updated time.
 
+
+
+
 ## Table of Contents
 
 - [Features](#features)
@@ -14,6 +17,7 @@ The **Currency Converter Extension** is a browser extension designed to help use
 - [Project Structure](#project-structure)
 - [Components](#components)
 - [Styling](#styling)
+- [Extension-Images](#Extension-Images)
 - [Contribution](#contribution)
 
 ## Features
@@ -200,6 +204,11 @@ CurrencyConverterExtension/
       font-size: 18px;
     }
     ```
+
+## Extension-Images
+
+![Currency Converter Extension](screenshots/ss1.png)     ![Currency Converter Extension](screenshots/ss2.png)
+
 
 ## Contribution
 
