@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const form = document.getElementById('converter-form');
     const reverseBtn = document.getElementById('reverse-btn');
 
-    const apiKey = 'cur_live_bxkK0DNYuokIRcHqSJrp2HIBdBXx5ttfmQ2svzYX';
+    const apiKey = 'your_api_key_here';
 
     // Fetch all available currencies
     fetch(`https://api.currencyapi.com/v3/latest?apikey=${apiKey}`)
