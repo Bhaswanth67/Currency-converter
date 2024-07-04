@@ -209,6 +209,9 @@ CurrencyConverterExtension/
 
 ![Currency Converter Extension](screenshots/ss1.png)     ![Currency Converter Extension](screenshots/ss2.png)
 
+We will receive the notifications about price changes.
+
+![Currency Converter Extension](screenshots/ss3.png)
 
 ## Contribution
 
